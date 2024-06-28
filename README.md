@@ -11,3 +11,20 @@ Given that supermarkets don't make API's publicly available, it was necessary to
 <a href="https://github.com/joaolouro02/Recipe-Rescue/releases/tag/1.0/Identificar_Alimentos.mp4">
   <img src="https://raw.githubusercontent.com/joaolouro02/Recipe-Rescue/main/Thumbnail.jpeg" alt="Watch the video" width="200"/>
 </a>
+
+---
+## Ferramentas Utilizadas:
+- Android Studio 📱
+- Java ♨️
+- Firebase 🔥
+- API's 🌐 
+- Figma 🎨
+- Postman 🚀
+- TensorFlow 🕸
+- Convolutional Neural Networks (CNN) 🌀
+- Kaggle 🎯
+- Google Colab 🔎
+- Web Scraping 🛠️ with Python, Selenium and ChromeDriver to extract images from Google, Bing and Yahoo
+
+
+
