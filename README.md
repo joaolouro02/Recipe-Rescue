@@ -26,5 +26,8 @@ Given that supermarkets don't make API's publicly available, it was necessary to
 - Google Colab 🔎
 - Web Scraping 🛠️ with Python, Selenium and ChromeDriver to extract images from Google, Bing and Yahoo
 
+## Use Cases
+
+
 
 
