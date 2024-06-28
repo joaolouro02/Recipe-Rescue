@@ -8,6 +8,7 @@ The OpenAI API 🤖 was used to recommend recipes using the LLM GPT-3.5 Turbo In
 
 Given that supermarkets don't make API's publicly available, it was necessary to do reverse engineering ↩️ to communicate with a private API. In this case, the Prices Crawler website was used, which is able to obtain supermarket prices using Web Scraping techniques.
 
+Check out the application demo videos!
 <a href="https://github.com/joaolouro02/Recipe-Rescue/releases/tag/1.0/Identificar_Alimentos.mp4">
   <img src="https://raw.githubusercontent.com/joaolouro02/Recipe-Rescue/main/Thumbnail.jpeg" alt="Watch the video" width="200"/>
 </a>
