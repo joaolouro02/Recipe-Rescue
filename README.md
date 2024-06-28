@@ -1,2 +1,3 @@
 # Recipe-Rescue
-[![Watch the video](https://raw.githubusercontent.com/joaolouro02/Recipe-Rescue/main/assets/tumbnail.jpeg)](https://raw.githubusercontent.com/joaolouro02/Recipe-Rescue/main/assets/Identificar_Alimentos.mp4)
+[![Watch the video](https://raw.githubusercontent.com/joaolouro02/Recipe-Rescue/main/tumbnail.jpeg)](https://github.com/joaolouro02/Recipe-Rescue/blob/main/Identificar_Alimentos.mp4)
+
