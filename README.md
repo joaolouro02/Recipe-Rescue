@@ -27,4 +27,4 @@ Given that supermarkets don't make API's publicly available, it was necessary to
 - Web Scraping 🛠️ with Python, Selenium and ChromeDriver to extract images from Google, Bing and Yahoo
 
 ## Use Cases
-<img src="Use_Cases.png" alt="UseCases" width="200"/>
+<img src="Use_Cases.png" alt="UseCases" width="400"/>
